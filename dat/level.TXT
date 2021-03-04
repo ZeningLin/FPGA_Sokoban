@@ -1,0 +1,19 @@
+ D:\SCUT\Courses\Professional Courses\Digital System Design\Course Design\FigureAndData\level.BMP(0)
+
+0000000000
+0000000000
+0000000000
+1000000010
+7000000070
+1000000010
+1000000010
+103CEE3C10
+1042444210
+1042444210
+107E287E10
+1040284010
+1042104210
+7C3C103C7C
+0000000000
+0000000000"D:\SCUT\Courses\Professional Courses\Digital System Design\Course Design\FigureAndData\level.BMP",0
+
